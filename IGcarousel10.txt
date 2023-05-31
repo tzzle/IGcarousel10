@@ -1,0 +1,4 @@
+External JavaScript Advantages
+1. It separates HTML and JavaScript code.
+2. It makes it easier to read and maintain HTML and JavaScript code.
+3. Cached JavaScript files can speed up page loads.
